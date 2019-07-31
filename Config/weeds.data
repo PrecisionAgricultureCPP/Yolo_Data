@@ -1,0 +1,4 @@
+train  = /content/darknet/cfg/weeds_train.txt
+valid  = /content/darknet/cfg/weeds_test.txt
+names = /content/darknet/cfg/weeds.names
+backup = /content/backup
