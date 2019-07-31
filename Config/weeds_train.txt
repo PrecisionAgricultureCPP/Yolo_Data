@@ -330,12 +330,12 @@ Weeds/MVI_7277.MOV-frame157.jpg
 Weeds/MVI_7277.MOV-frame159.jpg
 Weeds/MVI_7277.MOV-frame165.jpg
 Weeds/MVI_7277.MOV-frame179.jpg
-Weeds/MVI_7277.MOV-frame49 12.00.47 AM.jpg
-Weeds/MVI_7277.MOV-frame61 12.00.47 AM.jpg
-Weeds/MVI_7277.MOV-frame63 12.00.47 AM.jpg
-Weeds/MVI_7277.MOV-frame72 12.00.47 AM.jpg
-Weeds/MVI_7277.MOV-frame81 12.00.47 AM.jpg
-Weeds/MVI_7277.MOV-frame87 12.00.47 AM.jpg
+Weeds/MVI_7277.MOV-frame49.jpg
+Weeds/MVI_7277.MOV-frame61.jpg
+Weeds/MVI_7277.MOV-frame63.jpg
+Weeds/MVI_7277.MOV-frame72.jpg
+Weeds/MVI_7277.MOV-frame81.jpg
+Weeds/MVI_7277.MOV-frame87.jpg
 Weeds/MVI_7284.MOV-frame0.jpg
 Weeds/MVI_7284.MOV-frame101.jpg
 Weeds/MVI_7284.MOV-frame132.jpg
