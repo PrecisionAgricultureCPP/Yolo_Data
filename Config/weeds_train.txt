@@ -361,7 +361,6 @@ Weeds/MVI_7284.MOV-frame85.jpg
 Weeds/MVI_7284.MOV-frame99.jpg
 Weeds/MVI_7285.MOV-frame117.jpg
 Weeds/MVI_7285.MOV-frame11.jpg
-Weeds/MVI_7285.MOV-frame120.jpg
 Weeds/MVI_7285.MOV-frame156.jpg
 Weeds/MVI_7285.MOV-frame185.jpg
 Weeds/MVI_7285.MOV-frame23.jpg
